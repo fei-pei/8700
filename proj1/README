@@ -1,0 +1,12 @@
+Name: Fei Pei
+Clemson Email Address: fpei@clemson.edu
+Course number: 8700
+Project no: 1
+
+Project description:
+This project implements the tic-tac-toe by C++ and MVC model by CLI.
+1. run make to generate ttt & test file.
+2. run ./ttt can play the tic-tac-toe game.
+3. run ./test can run the autotest.
+4. run make clean will clean the project.
+
